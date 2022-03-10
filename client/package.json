@@ -1,6 +1,7 @@
 {
   "name": "nasa-fe",
   "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "arwes": "^1.0.0-alpha.5",
     "react": "^17.0.1",
